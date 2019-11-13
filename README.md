@@ -1,5 +1,7 @@
 # PDSVM-FPGA
 A parallel computing architecture designed for SVM on FPGA
+Author : Huaming Shen
+Shanghai University
 
 Enviroment: ISE14.7 64bit;
 FPGA: spartan6lx45-2csg324; 
